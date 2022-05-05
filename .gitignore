@@ -1,0 +1,4 @@
+.vscode
+server/public/*
+node_modules
+admin/public/a/vendor/*
